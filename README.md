@@ -6,7 +6,7 @@
 <hr>
 <a href="https://cruzgam.github.io/adri1.html">Practica 4 de bootstrap. imágenes</a>
 <hr>
-<a href="https://cruzgam.github.io/menu.html">Practica 5 de bootstrap.menu responsivo</a>
+<a href="https://cruzgam.github.io/Menu.html">Practica 5 de bootstrap.menu responsivo</a>
 <hr>
 <a href="https://cruzgam.github.io/iconos.html">Practica 6 de bootstrap.iconos</a>
 <hr>
